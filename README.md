@@ -1,3 +1,9 @@
+尚在开发，不代表最终品质
+不知道为什么很多东西没传上来，无所谓了
+可以通过下面这坨东西了解作者对这玩意的定位（？）
+
+
+
 # Introducing **PhiClient**
 
 一款集 游玩、制谱、社区、渲染 为一体的 Phigros 自制模拟器，由 **[Bevy](https://github.com/bevyengine/bevy)引擎** 强势驱动
