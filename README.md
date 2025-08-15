@@ -10,7 +10,12 @@
 
 支持 **Windows、MacOS、Linux、iOS、Android** 等在内的主流系统
 
-## Installation 安装
+PhiClient 基于 GNU General Public License 3.0 开源
+
+**Copyright (C) 2025 9RayAlkalin**
+
+
+## Installation / 安装
 
 Check [Releases](https://github.com/9RayAlkalin/PhiClient/releases) Here
 
