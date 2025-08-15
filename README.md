@@ -17,8 +17,13 @@ PhiClient 基于 GNU General Public License 3.0 开源
 
 ## Installation / 安装
 
+Win/MacOS/Linux/Android:
+
 Check [Releases](https://github.com/9RayAlkalin/PhiClient/releases) Here
 
+iOS:
+
+Get App From [TestFlight Link](not_a_link)
 
 ## 功能 / Features
 
